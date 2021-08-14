@@ -74,13 +74,13 @@ Rotate and Flip=Draaien en spiegelen
 Group/Ungroup Symbol...= Groeperen/Ongroeperen symbool
 
 [menu_project]
-View=查看
+View=Bekijken
 [/menu_project]
-Find = 查找
-Zoom In=放大
-Zoom Out=缩小
-Fit in Window=适合窗口
-Refresh=刷新
+Find = Zoek
+Zoom In=Inzoomen
+Zoom Out=Uitzoomen
+Fit in Window=Past in venster
+Refresh=Verversen
 Snap=吸附
 Cross Cursor=十字光标
 Toolbars=工具栏
