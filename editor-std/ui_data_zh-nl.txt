@@ -1,5 +1,5 @@
 ﻿# Menu
-User=用户
+User=Gebruiker
 Join...=注册...
 Login...=登录...
 Log in=登录
