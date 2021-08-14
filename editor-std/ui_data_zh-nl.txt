@@ -38,7 +38,7 @@ Cadence...=Cadence...
 Pads...=Pads...
 DXF=DXF
 Import=Importeer
-Super Menu = Super menu
+Super Menu = Hoofdmenu
 
 Edit=Aanpassen
 Undo=Ongedaan maken
@@ -71,7 +71,7 @@ Rotate Right=Rechtsom draaien
 Flip Horizontal=Horizontaal spiegelen
 Flip Vertical=Verticaal spiegelen
 Rotate and Flip=Draaien en spiegelen
-Group/Ungroup Symbol...= Groeperen/Groeperen opheffen symbool
+Group/Ungroup Symbol...= Groeperen/Ongroeperen symbool
 
 [menu_project]
 View=查看
