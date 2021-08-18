@@ -141,7 +141,7 @@ Lock Selected Objects = Geselecteerde objecten vergrendelen
 Miscellaneous=Diversen
 Find Component=Component zoeken
 Component = Component
-Footprint... = Componentafdruk...
+Footprint... = Component-afdruk...
 This component is deleted! = Dit Component is verwijderd！
 Convert = Converteren
 Convert Schematic to PCB = Converteer schema naar PCB
@@ -178,12 +178,12 @@ Videos = Videos
 Custom Data = Aangepaste gegevens
 LCEDA = LCAEDA
 
-Copy Result Image = Afbeeldingsresultaat kopieren
-Export Result Image = Afbeeldingsresultaat exporteren
-Simulation Result = Resultaatsimulatie
-Simulation Results... = Resultatensimulatie...
-Simulate this Sheet = Dit blad simuleren
-Simulate this Project = Dit project simuleren
+Copy Result Image = Resultaat afbeelding kopieren.
+Export Result Image = Resultaat afbeelding exporteren.
+Simulation Result = Simulatie resultaat.
+Simulation Results... = Simulatie resultaten...
+Simulate this Sheet = Dit blad simuleren.
+Simulate this Project = Dit project simuleren.
 Non-simulation mode, please switch to the simulation mode first and then run = Niet-simulatiemodus, schakel eerst over naar de simulatiemodus en dan uitvoeren.
 Run the Document = Document uitvoeren
 Run the Project... = Project uitvoeren...
@@ -232,7 +232,7 @@ Apply Design Rule While Routing and Auto Placing Via = Ontwerpregel toepassen ti
 
 Add SubPart=Sub-onderdeel toevoegen
 Annotate... = Annoteren...
-Config=Config
+Config=Configureer
 
 Help=Help
 About=Over
