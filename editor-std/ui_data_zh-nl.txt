@@ -699,24 +699,24 @@ AC Phase = AC Fase
 There are some parts haven't spice model, please use "EElib" and "Spice Symol" at "Libraries" of "Simulation" mode, or you can assign the spice model for them: = Sommige onderdelen hebben geen spice model, gebruik dan "EElib" en "Spice Symol" in "Libraries" onder "Simulation" mode, of u kunt het spice model voor hen toewijzen:
 
 #Pin
-Pin Attributes = 引脚属性
-Orientation = 方向
-Line 45° = 线条45°
-Line 90° = 线条90°
-Arc 45° = 圆弧45°
-Arc 90° = 圆弧90°
-Free Angle = 自由角度
-Start X = 起点X
-Start Y = 起点Y
-Length = 长度
-Name = 名称
-name = 名称
-Number = 编号
-Spice Pin Order = spice管脚编号
-Display Number = 显示编号
-Clock = 时钟
-Show = 显示引脚
-Electric = 电气特性
+Pin Attributes = Pin attributen
+Orientation = oriëntatie
+Line 45° = Lijn 45°
+Line 90° = Lijn 90°
+Arc 45° = Boog 45°
+Arc 90° = Boog 90°
+Free Angle = Vrije hoek
+Start X = Start X
+Start Y = Start Y
+Length = Lengte
+Name = Naam
+name = naam
+Number = Nummer
+Spice Pin Order = spice pin volgorde
+Display Number = Nummer weergeven
+Clock = Klok
+Show = Zien
+Electric = Elektrisch
 
 #Junction
 Junction Attributes = 节点属性
