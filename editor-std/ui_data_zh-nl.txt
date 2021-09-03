@@ -719,22 +719,22 @@ Show = Zien
 Electric = Elektrisch
 
 #Junction
-Junction Attributes = 节点属性
-X Location = X坐标
-Y Location = Y坐标
-Size = 大小
-Color = 颜色
+Junction Attributes = Knooppunt attributen
+X Location = X Locatie
+Y Location = Y Locatie
+Size = Grootte
+Color = Kleur
 
 #Net Label
-Net Label = 网络标签
+Net Label = Net Label
 
 #Part
-Prefix = 编号
+Prefix = Prefix
 
 #Image Attributes and Dialog
-Add Image = 添加图片
-Image Attributes = 图片属性
-Image URL = 图片网址
+Add Image = Afbeelding Toevoegen
+Image Attributes = Afbeelding attributen
+Image URL = Afbeelding URL
 Input an image URL = 请输入图片网址
 Invalid image URL = 无效的图片网址
 Invalid Prefix = 无效的编号
