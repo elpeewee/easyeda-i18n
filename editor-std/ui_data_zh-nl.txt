@@ -807,62 +807,62 @@ Oval = Ovaal
 Hole Shape = Gat vorm
 Slot = Slot
 Hole(Length) = Gat (lengte)
-Plated = 金属化
+Plated = Beplaten
 None = Geen
-Paste Mask Expansion = 助焊扩展
-Solder Mask Expansion = 阻焊扩展
+Paste Mask Expansion = Plakken masker uitbreiding
+Solder Mask Expansion = Soldeermasker uitbreiding
 
 #Via Properties
-Via Properties = 过孔属性
-Diameter = 直径
-Drill Diameter = 过孔内径
+Via Properties = Via eigenschappen
+Diameter = Diameter
+Drill Diameter = Boor diameter
 
 #Hole Properties
-Hole Properties = 孔属性
+Hole Properties = Gat eigenschappen
 
 
 #TEXT
-Text Properties = 文本属性
-Line Width = 线宽
-Rotation = 旋转角度
-Fonts Management = 字体管理
+Text Properties = Tekst eigenschappen
+Line Width = Lijnbreedte
+Rotation = Rotatie
+Fonts Management = Beheer lettertypen
 
 #Dimension Attributes
-Dimension Attributes = 尺寸属性
+Dimension Attributes = Dimensie Attributen
 
 #Footprint Attributes
-Component Attributes = 元件属性
-Display Prefix = 显示编号
-Pin Name = 引脚名称
-Pin Number = 引脚编号
-Spice Pin Number = 仿真引脚编号
-Graphics = 图形
-Pattern = 形状
+Component Attributes = Component Attributen
+Display Prefix = Weergave Prefix
+Pin Name = Pin naam
+Pin Number = Pin nummer
+Spice Pin Number = Spice pin nummer
+Graphics = Afbeeldingen
+Pattern = Patroon
 
 #Arc Properties
-Arc Properties = 圆弧属性
-Start Angle = 起始角度
-End Angle = 结束角度
-Rotation Direction = 旋转方向
+Arc Properties = Boog eigenschappen
+Start Angle = Start hoek
+End Angle = Einde hoek
+Rotation Direction = Draai richting
 
 #Rect Properties
-Rect Properties = 矩形属性
-Round radius = 圆角半径
+Rect Properties = Rechthoek eigenschappen
+Round radius = Ronde straal
 
 #Circle Properties
-Circle Properties = 圆属性
-Radius = 半径
+Circle Properties = Cirkel eigenschappen
+Radius = Straal
 
 #CopperArea Properties
-CopperArea Properties = 铺铜属性
-Clearance = 间距
-Pad Connection = 焊盘连接
-Direct = 直接
-Spoke = 轮辐状
-Keep Island = 保留孤岛
-Fill Style = 填充样式
-CopperArea conflict: copper area outlines in same layer with different net names must not overlap = 铺铜区冲突: 同一层的不同铺铜区边界不能重叠
-Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area. = 铺铜完成！单击空白区后在右边属性面板可以设置“铺铜区”为“可见”。
+CopperArea Properties = Kopergebied eigenschappen
+Clearance = vrije ruimte
+Pad Connection = Pad Connectie
+Direct = Direct
+Spoke = spaak
+Keep Island = Eiland behouden
+Fill Style = Opvulstijl
+CopperArea conflict: copper area outlines in same layer with different net names must not overlap = Kopergebied conflict: koperen gebiedscontouren in dezelfde laag met verschillende netnamen mogen elkaar niet overlappen.
+Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area. = Heropbouw kopergebied voltooid! U kunt het "Kopergebied" instellen als "Zichtbaar" in het rechter-muisklik paneel na een enkele klik op een leeg gebied.
 Please create board outline first. = 请先创建电路板边界
 Board outlines are not closed. = 电路板边界没有闭合
 Rebuild CopperArea = 重建铺铜区
