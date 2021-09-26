@@ -326,7 +326,7 @@ By Center of Pads = Door middel van Center of Pads
 By Center Grid of Symbols = Door middel van het middenraster van symbolen.
 
 #Schematic Canvas Attributes
-Properties=Eigenscappen
+Properties=Eigenschappen
 Attributes=Attributen
 Apply=Toepassen
 Save as default=Als standaard opslaan.
@@ -761,7 +761,7 @@ Shape Invert = Vorm omkeren
 Image Size = Afbeeldingsgrootte
 Color Tolerance = Kleur tolerantie
 Simplify Level = Niveau vereenvoudigen
-Corner Threshold = Drempel hoek
+Corner Threshold = Grenswaarde hoek
 
 #PCB Canvas Attributes
 Units = Eenheden
@@ -775,40 +775,40 @@ Please using hotkey {0}{shiftw}{1} or {2}{tab}{3} to change track width while on
 Routing Angle = Hoek routing
 Routing Conflict = Routing confict
 Remove loop = Lus verwijderen
-Cut SilkScreen = 裁剪丝印
-Grid = 网格
-Grid 90 = 网格90
-Grid 45 = 网格45
-Copper Zone = 铺铜区
-Visible = 可见
-Invisible = 不可见
-Ignore = 忽略
-Block = 阻挡
-RoundTrack = 环绕
+Cut SilkScreen = Knip Silkscreen
+Grid = Raster
+Grid 90 = Raster 90
+Grid 45 = Raster45
+Copper Zone = Koper gebied
+Visible = Zichtbaar
+Invisible = Onzichtbaar
+Ignore = Negeren
+Block = Blok
+RoundTrack = Ronde baan
 
 #Track
-Track Properties = 导线属性
-Layer = 层
-Net = 网络
-Start X = 起点X
-Start Y = 起点Y
-End X = 终点X
-End Y = 终点Y
+Track Properties = Baan eigenschappen
+Layer = Laag
+Net = Net
+Start X = Start X
+Start Y = Start Y
+End X = Einde X
+End Y = Einde Y
 ID= ID
 
 #Pad Properties
-Pad Properties = 焊盘属性
-Shape = 形状
-Hole(D) = 孔直径
-Center X = 中心X
-Center Y = 中心Y
-Round = 圆形
-Oval = 长圆形
-Hole Shape = 孔形状
-Slot = 槽形
-Hole(Length) = 孔长度
+Pad Properties = Pad eigenschappen
+Shape = Vorm
+Hole(D) = Gat (D)
+Center X = Center X
+Center Y = Center Y
+Round = Rond
+Oval = Ovaal
+Hole Shape = Gat vorm
+Slot = Slot
+Hole(Length) = Gat (lengte)
 Plated = 金属化
-None = 否
+None = Geen
 Paste Mask Expansion = 助焊扩展
 Solder Mask Expansion = 阻焊扩展
 
